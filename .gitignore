@@ -1,0 +1,6 @@
+stuff/
+.idea
+.cache
+.tox
+.project
+.DS_Store
